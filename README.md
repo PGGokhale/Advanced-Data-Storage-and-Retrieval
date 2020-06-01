@@ -5,7 +5,7 @@ This homework contains two parts.
 
 ## Step 1 - Climate Analysis and Exploration
 
-This is done in the Honolulu_climate_analysis.ipynb jupyter notebook.
+This part of the work is done in the Honolulu_climate_analysis.ipynb jupyter notebook.
 Python and SQLAlchemy is used to do basic climate analysis and data exploration climate database. All of the analysis is completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
 ## Step 2 - Climate App
