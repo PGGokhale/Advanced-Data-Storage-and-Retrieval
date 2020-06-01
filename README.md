@@ -3,6 +3,13 @@ This repository contains the homework for SQLAlchemy and Flask of Data Analysis 
 
 This homework contains two parts.
 
-1. Part 1 is done in the Honolulu_climate_analysis.ipynb jupyter notebook
-2. Part 2 is done in the MyClimateApp.py
+## Step 1 - Climate Analysis and Exploration
+
+This is done in the Honolulu_climate_analysis.ipynb jupyter notebook.
+Python and SQLAlchemy is used to do basic climate analysis and data exploration climate database. All of the analysis is completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
+
+## Step 2 - Climate App
+
+After completing the initial analysis, a Flask API is designed based on the queries that are developed.
+This is done in MyClimateApp.py
 
